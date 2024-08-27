@@ -12,7 +12,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dothien3110&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothien3110&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/>
+    <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"/>
+  </td>
 </tr>
 <table>
 
