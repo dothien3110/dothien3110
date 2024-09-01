@@ -9,8 +9,8 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=dothien3110&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothien3110&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dothien3110&theme=blue-green" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothien3110&theme=blue-green"/>
   </td>
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/>
     <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"/>
