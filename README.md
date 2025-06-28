@@ -1,6 +1,6 @@
 - 🔭 Try to become Network Engineer and Java Dev !!!
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
-- :zap: Fun fact: I've been single for 20 years 😅
+
 
 ## ✨ GitHub Stats   
 
