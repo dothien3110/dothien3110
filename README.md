@@ -1,4 +1,4 @@
-- 🔭 Try to become Network Engineer and Java Dev !!!
+- 🔭 Try to become Network Engineer and Python Dev !!!
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
 
 
